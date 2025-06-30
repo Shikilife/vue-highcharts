@@ -105,10 +105,10 @@
 ---
 
 ## 紀錄
-Day14：https://hackmd.io/@Shiki9029/ry3a6NaVgx
-Day15：https://hackmd.io/@Shiki9029/HkzArdR4xg
-Day16：https://hackmd.io/@Shiki9029/r1dl3dJrgg
-Day17：https://hackmd.io/@Shiki9029/rksm7rgBxl
+* Day14：https://hackmd.io/@Shiki9029/ry3a6NaVgx
+* Day15：https://hackmd.io/@Shiki9029/HkzArdR4xg
+* Day16：https://hackmd.io/@Shiki9029/r1dl3dJrgg
+* Day17：https://hackmd.io/@Shiki9029/rksm7rgBxl
 
 
 
